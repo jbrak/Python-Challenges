@@ -1,9 +1,8 @@
 from random import randint
 
 coin = ["heads","tails"]
-again = True
 
-while again == True:
+while True:
 
     rand = randint(0,1)
     try:
@@ -17,5 +16,5 @@ while again == True:
     elif user != rand:
         print("Bad Luck\n")
 
-    if input("Do you want to try again? Y/N\n").upper() == "Y":
-        again = False
+    if input("Do you want to try again? Y/N\n").upper() == "N":
+        break
