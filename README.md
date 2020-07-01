@@ -15,5 +15,3 @@ Create a dictionary with a couple words in them
   Give the definiton of the word and the number of letters
   The Person then needs to guess the words
   Give them a chance to try again
-
-Extension: Use the [Words API](https://www.wordsapi.com/) to  give a lot more Words.
