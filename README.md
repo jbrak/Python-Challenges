@@ -15,3 +15,7 @@ Create a dictionary with a couple words in them
   Give the definiton of the word and the number of letters
   The Person then needs to guess the words
   Give them a chance to try again
+
+## Challenge 3
+  Convert Your Word game into hangman
+  with a real hangman that prints into the terminal
